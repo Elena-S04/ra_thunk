@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "repository": "https://github.com/Elena-S04/ra_thunk.git",
-  "homepage": "",
+  "homepage": "https://elena-s04.github.io/ra_thunk",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
     "@testing-library/jest-dom": "^5.14.1",
